@@ -27,7 +27,13 @@ The topics include:
 
 ----------
 
+### Network Pentesting
+- [Wireshark Essentilals](https://github.com/cyberh3x/books/blob/master/9781783554638-WIRESHARK_ESSENTIALS.pdf)
+- [Mastering Wireshark](https://github.com/cyberh3x/books/blob/master/9781783989522-MASTERING_WIRESHARK.pdf)
+
 ### Defensive Security
+- [Holistic Info-Sec for Web Developers - Fascicle 0](https://f0.holisticinfosecforwebdevelopers.com/)
+- [Holistic Info-Sec for Web Developers - Fascicle 1](https://f1.holisticinfosecforwebdevelopers.com/)
 - [OWASP Hacking Tutorials and Web App Protection](https://www.owasp.org/images/d/d0/Web_Services_Hacking_and_Hardening.pdf)
 - [Threat Modeling - Designing for Security](https://news.asis.io/sites/default/files/Threat%20Modeling.pdf)
 
@@ -36,19 +42,20 @@ The topics include:
 ### Offensive Security
 
 - **Backtrack**
-  - [Backtrack: Advance Hacking tutorials](http://www.binary-zone.com/course/BZ-Backtrack.usage.pdf)
   - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
+- **Kali Linux**
+  - [Kali Linux Revealed Book](https://kali.training/)
+  - [Windows Pentesting with Kali Linux v2](https://github.com/cyberh3x/books/blob/master/9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf)
 - **Hacking**
   - [Advanced SQL Injection Hacking and Guide](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-joseph_mccray-adv_sql_injection.pdf)
   - [A Beginners Guide To Hacking Computer Systems](http://www.mediafire.com/download/dyewn6f3r3olnuw/A+Beginners+Guide+To+Hacking+Computer+Systems.zip)
   - [Blind SQL Injection Discovery & Exploitation](http://blueinfy.com/wp/blindsql.pdf)
-  - [CEH – Hacking Database Secrets and Exploit](http://repo.hackerzvoice.net/depot_cehv6/)
+  - [CEH – Hacking Database Secrets and Exploit](http://repo.thehackademy.net/depot_cehv6/)
   - [Ethical Hacking Complete E-book for Beginners](http://pdf.textfiles.com/security/palmer.pdf)
   - [Hackers High School 13 Complete Hacking Ebooks](http://www.mediafire.com/download/u2akquvibe6ia13/Hackers+High+School+13+Complete+Hacking+E-books.rar)
   - [Hacking attacks and Examples Test](http://www.mediafire.com/download/dpysbzboord42lo/Hacking+attacks+and+Examples+Test.zip)
   - [Hacking into Computer Systems](http://www.academia.edu/1153769/Hacking_into_computer_systems_-_a_beginners_guide)
   - [Hackers' Secrets](http://www.onlinepot.org/security/HackersSecrets.pdf)
-  - [The Hackers Underground Handbook](https://decryptedmatrix.com/wp-content/uploads/2012/06/The-Hackers-Underground-Handbook.pdf)
 - **Operating Systems**
   - **Windows**
      - [Modern Windows Exploit Development](https://userscloud.com/9ifscj08wllu)
@@ -86,7 +93,8 @@ The topics include:
 ----------
 
 ### Misc
-- [Computer Hacking - Cyber Laws Harvard](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
-- [Ethical Hacking Value and Penetration testing](http://www.certconf.org/presentations/2003/Wed/WM4.pdf)
+- [Computer Hacking - Cyber Laws Harvard](https://cyber.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
+- [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
-- [Ultimate Guide to Social Enginnering attacks](http://uwcisa.uwaterloo.ca/Biblio2/Topic/ACC626%20Social%20Engineering%20A%20Cheung.pdf)
+- [Hackers High School 13Complete Hacking E-books](http://www.mediafire.com/download/u2akquvibe6ia13/Hackers+High+School+13+Complete+Hacking+E-books.rar)
+- [Network Hacking and Shadows Hacking Attacks](http://www.mediafire.com/download/utp50jqd25ngw3q/Network_Hacking_and_Shadows_Hacking_Attacks.zip)
